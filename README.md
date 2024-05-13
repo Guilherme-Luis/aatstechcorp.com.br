@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-  <a href="https://github.combrn-borges/aatstech-corporation">
+  <a href="https://github.comGuilherme-Luis/aatstech-corporation">
     <img src="images/logo-a.png" alt="Logo" >
   </a>
 
@@ -10,14 +10,14 @@
     A Aatstech é uma empresa especializada em vazamentos. <br>
     Nosso maior obejetivo é disponibilizar um produto a preços acessivel a toda a população!
     <br />
-    <a href="https://github.com/brn-borges/aatstech-corporation"><strong>Explore os documentos»</strong></a>
+    <a href="https://github.com/Guilherme-Luis/aatstech-corporation"><strong>Explore os documentos»</strong></a>
     <br />
     <br />
-    <a href="https://brn-borges.github.io/aatstech-corporation/">Veja demonstração</a>
+    <a href="https://brn-borges.github.io/aatstech-corporation/">Veja demonstração[BETA]</a>
     ·
-    <a href="https://github.com/brn-borges/aatstech-corporatio/issues">Reportar Bug</a>
+    <a href="https://github.com/Guilherme-Luis/aatstech-corporation/issues">Reportar Bug</a>
     ·
-    <a href="https://github.com/brn-borges/aatstech-corporatio/issues">Solicitar Request </a>
+    <a href="https://github.com/Guilherme-Luis/aatstech-corporation/issues">Solicitar Request </a>
   </p>
 </p>
 
@@ -49,7 +49,7 @@
 ## Sobre o projeto
 
 <p align="center">
-  <a href="https://github.combrn-borges/aatstech-corporation">
+  <a href="https://github.comGuilherme-Luis/aatstech-corporation">
     <img align = "left" width = "100" height = "100" src = "images/logo-b.png">
   </a>
 
@@ -88,15 +88,15 @@ Listar das coisas de que você precisa para usar a pagina e como instalá-las.
 
 ### Instalação
 
-1. Obtenha uma chave de API gratuita em [https://github.com/brn-borges/aatstech-corporation.git](https://github.com/brn-borges/aatstech-corporation.git)
+1. Obtenha uma chave de API gratuita em [https://github.com/Guilherme-Luis/aatstech-corporation.git](https://github.com/Guilherme-Luis/aatstech-corporation.git)
 2. Clone o repositório
    ```sh
-   git clone https://github.com/brn-borges/aatstech-corporation.git
+   git clone https://github.com/Guilherme-Luis/aatstech-corporation.git
    ```
 
 ## Roteiro
 
-Veja os [problemas abertos](https://github.com/brn-borges/aatstech-corporation/issues) para uma lista de recursos propostos (e problemas conhecidos).
+Veja os [problemas abertos](https://github.com/Guilherme-Luis/aatstech-corporation/issues) para uma lista de recursos propostos (e problemas conhecidos).
 
 ## Contribuições
 
@@ -111,20 +111,20 @@ As contribuições são o que tornam a comunidade de código aberto um lugar inc
 
 ## Contato
 
-Bruno Borges - [@BRN-BORGES](https://linkedin.com/in/brn-borges) - bruno.bferreira3@gmail.com
+Guilherme Luís Rodrigues Silva - [@Guilherme-Luis](https://linkedin.com/in/Guilherme-Luis) - guilherme_luis_rodrigues@outlook.com
 
-Project Link: [https://github.com/brn-borges/aatstech-corporation](https://github.com/brn-borges/aatstech-corporation)
+Project Link: [https://github.com/Guilherme-Luis/aatstech-corporation](https://github.com/Guilherme-Luis/aatstech-corporation)
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-[contributors-shield]: https://img.shields.io/github/contributors/brn-borges/aatstech-corporation?style=for-the-badge
-[contributors-url]: https://github.com/brn-borges/aatstech-corporation/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/brn-borges/aatstech-corporation?style=for-the-badge
-[forks-url]: https://github.com/brn-borges/aatstech-corporation/network/members
-[stars-shield]: https://img.shields.io/github/stars/brn-borges/aatstech-corporation?style=for-the-badge
-[stars-url]: https://github.com/brn-borges/aatstech-corporation/stargazers
+[contributors-shield]: https://img.shields.io/github/contributors/Guilherme-Luis/aatstech-corporation?style=for-the-badge
+[contributors-url]: https://github.com/Guilherme-Luis/aatstech-corporation/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Guilherme-Luis/aatstech-corporation?style=for-the-badge
+[forks-url]: https://github.com/Guilherme-Luis/aatstech-corporation/network/members
+[stars-shield]: https://img.shields.io/github/stars/Guilherme-Luis/aatstech-corporation?style=for-the-badge
+[stars-url]: https://github.com/Guilherme-Luis/aatstech-corporation/stargazers
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/brn-borges
+[linkedin-url]: https://linkedin.com/in/Guilherme-Luis
